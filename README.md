@@ -9,15 +9,15 @@
 
 
 ## Liste des exercices:
-1. 'ex1_tp2.php':  balises, HTML/PHP, commentaires, echo.
-2. 'ex2_tp2.php':  variables, casse, concaténation, opérateur.
-3.  'ex3_tp2.php':  constantes, calculs, affectation composée.
-4. 'ex4_tp2.php':  int, float, string, bool, null, conversion.
-5. 'ex5_tp2.php':  if, elseif, else, opérateurs de comparaison.
-6. 'ex6_tp2.php':  switch, case, break, default, date().
-7. 'ex7_tp2.php':  for, compteur, boucles imbriquées.
-8. 'ex8_tp2.php':  boucles et contrôle des itérations.
-9. 'ex9_tp2.php':  tableau associatif, foreach, accumulation, conditions.
+1. `ex1_tp2.php`:  balises, HTML/PHP, commentaires, echo.
+2. `ex2_tp2.php`:  variables, casse, concaténation, opérateur.
+3. `ex3_tp2.php`:  constantes, calculs, affectation composée.
+4. `ex4_tp2.php`:  int, float, string, bool, null, conversion.
+5. `ex5_tp2.php`:  if, elseif, else, opérateurs de comparaison.
+6. `ex6_tp2.php`:  switch, case, break, default, date().
+7. `ex7_tp2.php`:  for, compteur, boucles imbriquées.
+8. `ex8_tp2.php`:  boucles et contrôle des itérations.
+9. `ex9_tp2.php`:  tableau associatif, foreach, accumulation, conditions.
 10. `ex10_get.html` et `ex10_get.php` | Formulaire GET et son traitement 
    `ex10_post.html` et `ex10_post.php` | Formulaire POST et son traitement 
 
